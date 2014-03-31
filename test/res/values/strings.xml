@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">test</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+<string name="dummy_content2">\"DUMMY CONTENT</string>
+   <string name="dummy_content3">"abc 'sbds' a"DUMMY CONTENT</string>
+
+</resources>
